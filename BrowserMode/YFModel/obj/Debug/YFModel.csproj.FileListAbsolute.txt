@@ -1,0 +1,6 @@
+E:\NUAAclouddiskV2\个人文件\现代软件开发技术\socketchat-master\socketchat-master\BrowserMode\YFModel\bin\Debug\YFModel.dll
+E:\NUAAclouddiskV2\个人文件\现代软件开发技术\socketchat-master\socketchat-master\BrowserMode\YFModel\bin\Debug\YFModel.pdb
+E:\NUAAclouddiskV2\个人文件\现代软件开发技术\socketchat-master\socketchat-master\BrowserMode\YFModel\obj\Debug\YFModel.csprojAssemblyReference.cache
+E:\NUAAclouddiskV2\个人文件\现代软件开发技术\socketchat-master\socketchat-master\BrowserMode\YFModel\obj\Debug\YFModel.csproj.CoreCompileInputs.cache
+E:\NUAAclouddiskV2\个人文件\现代软件开发技术\socketchat-master\socketchat-master\BrowserMode\YFModel\obj\Debug\YFModel.dll
+E:\NUAAclouddiskV2\个人文件\现代软件开发技术\socketchat-master\socketchat-master\BrowserMode\YFModel\obj\Debug\YFModel.pdb
